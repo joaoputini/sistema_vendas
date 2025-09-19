@@ -1,10 +1,10 @@
-package sistema.sistemavendas;
+package sistema.sistema_de_venda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SistemavendasApplicationTests {
+class SistemaDeVendaApplicationTests {
 
 	@Test
 	void contextLoads() {

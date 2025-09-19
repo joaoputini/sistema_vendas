@@ -1,13 +1,13 @@
-package sistema.sistemavendas;
+package sistema.sistema_de_venda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SistemavendasApplication {
+public class SistemaDeVendaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SistemavendasApplication.class, args);
+		SpringApplication.run(SistemaDeVendaApplication.class, args);
 	}
 
 }
